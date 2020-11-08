@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Full-Stack Web Development (MERN)...
 - 🌱 I’m have a good experience in Python, Javascript, Django framework, etc...
-<!-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
 - 📫 How to reach me: 🤪Added links below Go check those out!!
 - ⚡ Fun fact: I do play Piano, And I'm a memer too! 🤣😂
-
+<!-- 🤔 I’m looking for help with ...
+- 💬 Ask me about ... -->
 
 
 ### Connect with me:
