@@ -1,4 +1,3 @@
-### Hey there, I'm Shriyash Parandkar 👋
 
 <!--
 **ganeshparandkar/ganeshparandkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,12 +12,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I do play Piano, It's just my hobby !
 - 😄 Pronouns: ...
 -->
+### Hey there, I'm Shriyash Parandkar 👋
+
 ## I'm a Full Stack developer | Flutter Developer !!
 
 - 🔭 I’m currently working on Full-Stack Web Development (MERN)...
 - 🌱 I’m have a good experience in Python, Javascript, Django framework, etc...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+<!-- 🤔 I’m looking for help with ...
+- 💬 Ask me about ... -->
 - 📫 How to reach me: 🤪Added links below Go check those out!!
 - ⚡ Fun fact: I do play Piano, And I'm a memer too! 🤣😂
 
