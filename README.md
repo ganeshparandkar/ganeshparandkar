@@ -40,7 +40,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][mlab]
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
+[<img align="left" alt="Python" width="26px" src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo-e1588009010920.png" />][django]
+[<img align="left" alt="Python" width="26px" src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" />][flask]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][git]
 
@@ -58,4 +60,8 @@ Here are some ideas to get you started:
 [js]:https://developer.mozilla.org/en-US/docs/Web/javascript
 [css3]:https://developer.mozilla.org/en-US/docs/Archive/CSS3
 [html]:https://developer.mozilla.org/en-US/docs/Web/HTML
-[mlab]:https://docs.mongodb.com/
+[python]:https://www.python.org
+[django]:https://www.djangoproject.com/
+[flask]:https://flask.palletsprojects.com/en/1.1.x/
+
+
