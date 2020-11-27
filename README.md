@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hey there, I'm Shriyash Parandkar 👋
 
-## I'm a Full Stack developer | Flutter Developer !!
+## I'm a Full Stack developer | Python Developer | Flutter Developer !!
 
 - 🔭 I’m currently working on Full-Stack Web Development (MERN)...
 - 🌱 I’m have a good experience in Python, Javascript, ReactJs, Django framework, etc...
