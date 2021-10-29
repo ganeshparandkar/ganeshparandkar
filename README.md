@@ -4,14 +4,12 @@
 
 <p align='center'>
   <a href='mailto:shriyashparandkarofficial@gmail.com' target="_blank">
-      <img src='https://img.shields.io/badge/-dave.soham2000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shriyashparandkarofficial@gmail.com'>
+      <img src='https://img.shields.io/badge/-shriyashparandkarofficial@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shriyashparandkarofficial@gmail.com'>
   </a>
-  <a href='https://www.linkedin.com/in/sohamdave08/' target="_blank">
-      <img src='https://img.shields.io/badge/-SohamDave-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohamdave08/'>
+  <a href='https://www.linkedin.com/in/shriyashparandkar/' target="_blank">
+      <img src='https://img.shields.io/badge/-ShriyashParandkar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shriyashparandkar/'>
   </a>
-  <a href='https://soham-dave08.web.app/' target="_blank">
-      <img src='https://img.shields.io/badge/portfolio-web-yellow?style=curve&link=https://soham-dave08.web.app/' alt='Website'>
-  </a>
+  
   
 <!-- [![Gmail Badge](https://img.shields.io/badge/-dave.soham2000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dave.soham2000@gmail.com)](mailto:dave.soham2000@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-sohamdave08-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohamdave08/)](https://www.linkedin.com/in/sohamdave08/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://sohamdave.netlify.app//)](https://soham-dave08.web.app/)  -->
