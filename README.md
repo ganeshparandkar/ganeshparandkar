@@ -60,11 +60,11 @@ I'm a software developer and love to implement new ideas and always open to coll
 
 <!-- <p align=center> <img src=https://komarev.com/ghpvc/?username=ganeshparandkar alt=ShriyashParandkar /> </p> -->
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ganeshparandkar&show_icons=true&include_all_commits=true&theme=dark)]
+![Github stats](https://github-readme-stats.vercel.app/api?username=ganeshparandkar&show_icons=true&include_all_commits=true&theme=dark)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshparandkar&layout=compact&theme=dark&hide=dart,MakeFile&langs_count=8)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshparandkar&layout=compact&theme=dark&hide=dart,MakeFile&langs_count=8)
 
 
 
