@@ -16,9 +16,8 @@
 </p>
 
 <p align='left'> 
-I'm a software developer from India and love building new stuff. Still in the urge of making the world a better place😉
-
-I started my career in Computer Science with Diploma in Computer Science Engineering and graduated back in May 2019 with an <b>All India Rank of 104</b>. Backed up with a Bachelor of Engineering in Information Technology from DJ Sanghvi College of Engineering, graduating in May 2022.
+I'm a software developer and love to implement new ideas and always open to collaborate. I have done my diploma in Computer Science Engineering at SBM Polytechnic,Mumbai. Currently pursuing B.E in Computer Science and Engineering at AISSMS Institute of Information Technology,Pune. (2019 - 2022)
+Im open for collaboration 
 
 Looking forward to contributing to the open-source community. Reach me out on the handles provided for any collaboration.  
 <br>
@@ -58,10 +57,10 @@ Apart from coding, I also maintain a blogging profile exploring various technolo
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub.*
 
-<p align=center> <img src=https://komarev.com/ghpvc/?username=SohamDave08 alt=SohamDave08 /> </p>
+<p align=center> <img src=https://komarev.com/ghpvc/?username=ganeshparandkar alt=ShriyashParandkar /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=SohamDave08&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/SohamDave08/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamDave08&layout=compact&theme=dark&hide=dart,MakeFile&langs_count=8)](https://github.com/SohamDave08/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ganeshparandkar&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/SohamDave08/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshparandkar&layout=compact&theme=dark&hide=dart,MakeFile&langs_count=8)](https://github.com/SohamDave08/github-readme-stats)
 
 
 
