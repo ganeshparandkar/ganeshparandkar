@@ -16,10 +16,8 @@
 </p>
 
 <p align='left'> 
-I'm a software developer and love to implement new ideas and always open to collaborate. I have done my diploma in Computer Science Engineering at SBM Polytechnic,Mumbai. Currently pursuing B.E in Computer Science and Engineering at AISSMS Institute of Information Technology,Pune. (2019 - 2022)
-Im open for collaboration 
+I'm a software developer and love to implement new ideas and always open to collaborate. I have done my diploma in Computer Science Engineering at SBM Polytechnic,Mumbai. <br>Currently pursuing B.E in Computer Science and Engineering at AISSMS Institute of Information Technology,Pune. (2019 - 2022)
 
-Looking forward to contributing to the open-source community. Reach me out on the handles provided for any collaboration.  
 <br>
 </p>
 
@@ -53,13 +51,14 @@ Apart from coding, I also maintain a blogging profile exploring various technolo
 </p>
 
 
-<h2 align='center'>Some of my GitHub Stats</h2>
+<h2 align='center'>GitHub Stats</h2>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub.*
 
-<p align=center> <img src=https://komarev.com/ghpvc/?username=ganeshparandkar alt=ShriyashParandkar /> </p>
+<!-- <p align=center> <img src=https://komarev.com/ghpvc/?username=ganeshparandkar alt=ShriyashParandkar /> </p> -->
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ganeshparandkar&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/SohamDave08/github-readme-stats)
+&nbsp
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshparandkar&layout=compact&theme=dark&hide=dart,MakeFile&langs_count=8)](https://github.com/SohamDave08/github-readme-stats)
 
 
