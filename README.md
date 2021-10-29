@@ -14,9 +14,9 @@
 </p>
 
 <p align='left'> 
-I'm a software developer and love to implement new ideas and always open to collaborate. I have done my diploma in Computer Science Engineering at SBM Polytechnic,Mumbai. <br>Currently pursuing B.E in Computer Science and Engineering at AISSMS Institute of Information Technology,Pune. (2019 - 2022)
+I'm a software developer and love to implement new ideas and always open to collaborate. I have done my diploma in Computer Science Engineering at SBM polytechnic,Mumbai. (2016 - 2019 ) <br>Currently pursuing B.E in Computer Science and Engineering at AISSMS Institute of Information Technology,Pune. (2019 - 2022)
 
-<br>
+<br><br>
 </p>
 
 <h2 align='center'> &#x270d; Blogs & Articles </h2> 
@@ -25,9 +25,7 @@ I'm a software developer and love to implement new ideas and always open to coll
 - 🔭 I’m have a good experience in Python, C++, Javascript, ReactJs, Django framework, etc...
 - 📫 Check my resume <a href="https://drive.google.com/file/d/17FGf-akdoKwieH_H0jGYxUFFiklbiHdf/view?usp=sharing&usp=embed_facebook" target="_blank">here</a>.
 - ⚡ Fun fact: I do play Piano, And I'm a memer too!
-
-
-<br> 
+ 
 </p>
 
 
@@ -49,6 +47,7 @@ I'm a software developer and love to implement new ideas and always open to coll
 
 
 <h2 align='center'>GitHub Stats</h2>
+<br>
 
 <!-- *NOTE: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub.* -->
 
