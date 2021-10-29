@@ -16,7 +16,6 @@
 <p align='left'> 
 I'm a software developer and love to implement new ideas and always open to collaborate. I have done my diploma in Computer Science Engineering at SBM polytechnic,Mumbai. (2016 - 2019 ) <br>Currently pursuing B.E in Computer Science and Engineering at AISSMS Institute of Information Technology,Pune. (2019 - 2022)
 
-<br><br>
 </p>
 
 <h2 align='center'> &#x270d; Blogs & Articles </h2> 
