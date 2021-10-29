@@ -14,7 +14,7 @@
 </p>
 
 <p align='left'> 
-I'm a software developer and love to implement new ideas and am always open for collaboration. I have done my diploma in Computer Science Engineering at SBM Polytechnic, Mumbai. (2016 - 2019 ) <br>
+I'm a software developer and love to implement new ideas and am always open for collaboration. I have done my diploma in Computer Science and Engineering at SBM Polytechnic, Mumbai. (2016 - 2019 ) <br>
 Currently pursuing B.E in Computer Science and Engineering at AISSMS Institute of Information Technology, Pune. (2019 - 2022)
 
 </p>
