@@ -10,9 +10,7 @@
       <img src='https://img.shields.io/badge/-ShriyashParandkar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shriyashparandkar/'>
   </a>
   
-  
-<!-- [![Gmail Badge](https://img.shields.io/badge/-dave.soham2000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dave.soham2000@gmail.com)](mailto:dave.soham2000@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-sohamdave08-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohamdave08/)](https://www.linkedin.com/in/sohamdave08/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://sohamdave.netlify.app//)](https://soham-dave08.web.app/)  -->
+
 </p>
 
 <p align='left'> 
@@ -28,12 +26,8 @@ I'm a software developer and love to implement new ideas and always open to coll
 - 📫 Check my resume <a href="https://drive.google.com/file/d/17FGf-akdoKwieH_H0jGYxUFFiklbiHdf/view?usp=sharing&usp=embed_facebook" target="_blank">here</a>.
 - ⚡ Fun fact: I do play Piano, And I'm a memer too!
 
- <br><br>
-  
 
-
-
-<br> <br>
+<br> 
 </p>
 
 
