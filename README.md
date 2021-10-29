@@ -24,7 +24,7 @@ Currently pursuing B.E in Computer Science and Engineering at AISSMS Institute o
   
 - 🔭 I’m have a good experience in Python, C++, Javascript, ReactJs, Django framework, etc...
 - 📫 Check my resume <a href="https://drive.google.com/file/d/17FGf-akdoKwieH_H0jGYxUFFiklbiHdf/view?usp=sharing&usp=embed_facebook" target="_blank">here</a>.
-- ⚡ Fun fact: I do play Piano, And I'm a memer too!
+- ⚡ My Interests: 🎹Playing the Piano, 💻Problem Solving, 🌄Trekking, 🏊🏻‍♀️Swimming 
  
 </p>
 
