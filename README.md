@@ -18,7 +18,7 @@ I'm a software developer and love to implement new ideas and always open to coll
 
 </p>
 
-<h2 align='center'> &#x270d; Blogs & Articles </h2> 
+<h2 align='center'> 😄 More About Myself </h2> 
 <p align='left'> 
   
 - 🔭 I’m have a good experience in Python, C++, Javascript, ReactJs, Django framework, etc...
